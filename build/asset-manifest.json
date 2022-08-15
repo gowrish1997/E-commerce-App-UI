@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d2636a13.js",
+    "static/media/gowrish.jpg": "/static/media/gowrish.591d861d1a3402b6d0bc.jpg",
+    "static/media/Croptop.png": "/static/media/Croptop.d833f4335763921a832d.png",
+    "static/media/Browngown.jpg": "/static/media/Browngown.c7e49b187463d28cf9c0.jpg",
+    "static/media/white_shirt.jpg": "/static/media/white_shirt.3a4269bbefe0deb4ac5a.jpg",
+    "static/media/Chudidar.jpg": "/static/media/Chudidar.bdd9d506d26daaa30ea4.jpg",
+    "static/media/shoe.jpg": "/static/media/shoe.d6586ff80b1666a9fb61.jpg",
+    "static/media/kurtha.jpg": "/static/media/kurtha.11e66c50ee18e67b0530.jpg",
+    "static/media/shirt.jpg": "/static/media/shirt.f61f196286f3c2eb8a08.jpg",
+    "static/media/Sweat-shirt.jpg": "/static/media/Sweat-shirt.a75769ab5ac8e3c3ba3b.jpg",
+    "static/media/mens_jacket.jpg": "/static/media/mens_jacket.33b309326fd064678b8c.jpg",
+    "static/media/mens-shoe.jpg": "/static/media/mens-shoe.1b32b35d242a60200415.jpg",
+    "static/media/empty_cart.png": "/static/media/empty_cart.201e0b9e9f45d385ec2c.png",
+    "index.html": "/index.html",
+    "main.d2636a13.js.map": "/static/js/main.d2636a13.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d2636a13.js"
+  ]
+}
